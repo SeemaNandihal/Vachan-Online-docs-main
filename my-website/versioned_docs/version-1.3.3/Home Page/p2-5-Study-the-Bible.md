@@ -16,7 +16,7 @@ Any section of the Bible can be accessed and read through using this page's drop
 - Click on the right **read** button.
 - You will be directed to the **desired chapter**. 
 
-
+<video controls src="/Home Page/Study the Bible.mov" width="100%" type="video/mov"/>
 
 
 
