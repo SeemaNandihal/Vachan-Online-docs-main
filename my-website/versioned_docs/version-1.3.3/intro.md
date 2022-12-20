@@ -12,4 +12,3 @@ It includes access to a variety of **Commentaries**, **Videos**, **Audio Bibles*
 
 The latest version available of **Vachan Online** is **version 1.3.3**
 
-<img src="/Introduction/Home page1.png"  width="1000px" alt="Home Page"/>
