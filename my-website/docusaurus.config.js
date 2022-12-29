@@ -9,7 +9,7 @@ const config = {
   title: 'VachanOnline-docs',
   tagline: 'Dinosaurs are cool',
   url: 'https://SeemaNandihal,github.ioc',
-  baseUrl: '/VachanOnline-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
