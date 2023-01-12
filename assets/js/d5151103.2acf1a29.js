@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8609],{6869:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/Vachan-Online-docs-main/blog/tags/hola","allTagsPath":"/Vachan-Online-docs-main/blog/tags","count":1}')}}]);
